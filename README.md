@@ -1,2 +1,3 @@
 repository
 ==========
+$ git commit -a
